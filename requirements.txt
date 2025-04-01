@@ -1,0 +1,11 @@
+pandas
+torch
+torchvision
+torchaudio
+plotly
+pillow
+matplotlib
+jupyter
+numpy
+scikit-learn
+torchmetrics
